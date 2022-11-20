@@ -7,7 +7,7 @@
 Nascido em divinópolis/mg apresentado a uma máquina muito interessante capaz de satisfazer minha curiosidade e toda necessidade de busca de conhecimento, aos 12 anos descobri a programação em clipper e na sequencia visual basic 6, tecnologia que trabalhei por muitos anos. Em busca de conhecimento e aprendizagem estudei e aprendi sozinho Visual Studio.net (que estava bem no incio) porem decide migrar para java tecnologia que utilizo a mais de 15 anos. A 5 anos dedico meus estudos e trabalhos principalmente para tecnologias JavaScript como React Native, React.js e node. Amo o que faço sobre tudo pela necessidade continua na busca de conhecimento.
 </p>
 
-<h3 align="left">hobbies e outras atividades que tive por toda minha vida</h3>
+<h3 align="left">Hobbies e outras atividades que tive por toda minha vida</h3>
 <p align="center">
 Dos 8 anos até as 15 karate etilo shotokan.
 Dos 16 anos até os 27 anos principalmente no periodo de 20 aos 27 tive a oportunidade de dedicar meu tempo livre ao mtb e ciclismo.
