@@ -1,9 +1,8 @@
 <h1>Hi 👋, I'm Moisés Alves Costa</h1>
-<h3 >Desenvolvedor desde 1997 </h3>
-<h3 >Apaixonado pelo que faço. </h3>
-<h3 >Em busca de conhecimento e da evolução continua. </h3>
+<h3 align="center">Desenvolvedor desde 1997. Apaixonado pelo que faço. </h3>
+<h3 align="center">Em busca de conhecimento e da evolução continua. </h3>
 <br>
-<h2 >Um pouco sobre mim. </h2>
+<h2 align="center">Um pouco sobre mim. </h2>
 <p align="center" >
 Nascido em divinópolis/mg apresentado a uma máquina muito interessante capaz de satisfazer minha curiosidade e toda necessidade de busca de conhecimento, aos 12 anos descobri a programação em clipper e na sequencia visual basic 6 tecnologia que trabalhei por muitos anos. Em busca de conhecimento e aprendizagem estudei e aprendi sozinho Visual Studio.net (que estava bem no incio) porem com a necessidade de algo multiplataforma decide aprender java tecnologia que utilizo a mais de 15 anos. A 5 anos dedico meus estudos e trabalhos principalmente para tecnologias JavaScript como React Native, React.js e node. Amo o que faço sobre tudo pela necessidade continua na busca de conhecimento.
 </p>
