@@ -9,8 +9,8 @@ Nascido em divinópolis/mg apresentado a uma máquina muito interessante capaz d
 
 <h3 align="left">Hobbies e outras atividades que tive por toda minha vida</h3>
 <p align="center">
-Dos 8 anos até as 15 karate etilo shotokan.
-Dos 16 anos até os 27 anos principalmente no periodo de 20 aos 27 tive a oportunidade de dedicar meu tempo livre ao mtb e ciclismo.
+Dos 8 anos até os 15 karate estilo shotokan.
+Dos 16 anos até os 27 anos principalmente no período de 20 aos 27 tive a oportunidade de dedicar meu tempo livre ao mtb e ciclismo.
 Aos 28 anos pude aprender drone modelismo e aeromodelismo, com 32 atraves do drone modelismo descobri o treking e a fotográfia.
 Neste momento sempre que tenho oporunidade posso dedicar tempo a esses 3 hobbies que gosto tanto Treking, fotográfia e drone racer.
 </p>
