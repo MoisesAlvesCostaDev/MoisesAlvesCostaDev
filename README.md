@@ -1,5 +1,21 @@
 <h1>Hi 👋, I'm Moisés Alves Costa</h1>
 <h3 >Desenvolvedor desde 1997 </h3>
+<h3 >Apaixonado pelo que faço. </h3>
+<h3 >Em busca de conhecimento e da evolução continua. </h3>
+<br>
+<h2 >Um pouco sobre mim. </h2>
+<p align="center" >
+Nascido em divinópolis/mg apresentado a uma máquina muito interessante capaz de satisfazer minha curiosidade e toda necessidade de busca de conhecimento, aos 12 anos descobri a programação em clipper e na sequencia visual basic 6 tecnologia que trabalhei por muitos anos. Em busca de conhecimento e aprendizagem estudei e aprendi sozinho Visual Studio.net (que estava bem no incio) porem com a necessidade de algo multiplataforma decide aprender java tecnologia que utilizo a mais de 15 anos. A 5 anos dedico meus estudos e trabalhos principalmente para tecnologias JavaScript como React Native, React.js e node. Amo o que faço sobre tudo pela necessidade continua na busca de conhecimento.
+</p>
+
+<h3 align="left">hobbies e outras atividades que tive por toda minha vida</h3>
+<p align="center">
+Dos 8 anos até as 15 karate etilo shotokan.
+Dos 16 anos até os 27 anos principalmente no periodo de 20 aos 27 tive a oportunidade de dedicar meu tempo livre ao mtb e ciclismo.
+Aos 28 anos pude aprender drone modelismo e aeromodelismo, com 32 atraves do drone modelismo descobri o treking e a fotográfia.
+Neste momento sempre que tenho oporunidade posso dedicar tempo a esses 3 hobbies que gosto tanto Treking, fotográfia e drone racer.
+</p>
+<br>
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
