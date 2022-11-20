@@ -4,7 +4,7 @@
 <br>
 <h2 align="center">Um pouco sobre mim. </h2>
 <p align="center" >
-Nascido em divinópolis/mg apresentado a uma máquina muito interessante capaz de satisfazer minha curiosidade e toda necessidade de busca de conhecimento, aos 12 anos descobri a programação em clipper e na sequencia visual basic 6 tecnologia que trabalhei por muitos anos. Em busca de conhecimento e aprendizagem estudei e aprendi sozinho Visual Studio.net (que estava bem no incio) porem com a necessidade de algo multiplataforma decide aprender java tecnologia que utilizo a mais de 15 anos. A 5 anos dedico meus estudos e trabalhos principalmente para tecnologias JavaScript como React Native, React.js e node. Amo o que faço sobre tudo pela necessidade continua na busca de conhecimento.
+Nascido em divinópolis/mg apresentado a uma máquina muito interessante capaz de satisfazer minha curiosidade e toda necessidade de busca de conhecimento, aos 12 anos descobri a programação em clipper e na sequencia visual basic 6, tecnologia que trabalhei por muitos anos. Em busca de conhecimento e aprendizagem estudei e aprendi sozinho Visual Studio.net (que estava bem no incio) porem decide migrar para java tecnologia que utilizo a mais de 15 anos. A 5 anos dedico meus estudos e trabalhos principalmente para tecnologias JavaScript como React Native, React.js e node. Amo o que faço sobre tudo pela necessidade continua na busca de conhecimento.
 </p>
 
 <h3 align="left">hobbies e outras atividades que tive por toda minha vida</h3>
