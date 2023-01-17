@@ -29,10 +29,10 @@ Neste momento sempre que tenho oporunidade posso dedicar tempo a esses 3 hobbies
 
  </p>
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesalvescostadev&show_icons=true&locale=en&layout=compact" alt="moisesalvescostadev" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=moisesalvescostadev&show_icons=true&locale=en&layout=compact" alt="moisesalvescostadev" /></p>
 
 <br>
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moisesalvescostadev&show_icons=true&locale=en" alt="moisesalvescostadev" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=moisesalvescostadev&show_icons=true&locale=en" alt="moisesalvescostadev" /></p>
 <br>
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moisesalvescostadev&" alt="moisesalvescostadev" /></p>
