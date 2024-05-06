@@ -18,7 +18,7 @@ Neste momento sempre que tenho oporunidade posso dedicar tempo a esses 3 hobbies
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mois%c3%a9s-costa-37a856a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mois%c3%a9s-costa-37a856a3/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/moises-tec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mois%c3%a9s-costa-37a856a3/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/moisesalvescostadiv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/moisesalvescostadiv/" height="30" width="40" /></a>
 </p>
 <h4>Email: moi.ac@hotmail.com<h4>
